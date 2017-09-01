@@ -1,26 +1,33 @@
 .box1 {
-  min-height: 30vh;
-  width: 60vh;
+  min-height: 40vh;
+  width: 28%;
+  margin: auto;
 }
 
 .box2 {
-   min-height: 90vh;
-  width: 60vh;
+  min-height: 40vh;
+  width: 53%;
   display: inline-block;
+  margin: auto;
 }
 
 .box3 {
-  min-height: 90vh;
-  width: 50vh;
+  min-height: 40vh;
+  width: 18%;
   display: inline-table;
+  margin: auto;
 }
 
 box4 {
-  min-height: 90vh;
-  width: 60vh;
+  min-height: 50vh;
+  width: 46%;
   display: inline-table;
+  margin: auto;
 }
 
 box5 {
-
+  margin: auto;
+  min-height: 50vh; 
+  width: 53%;
+  display: inline-table;
 }
