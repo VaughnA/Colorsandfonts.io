@@ -8,7 +8,7 @@
 .box2 {
   min-height: 40vh;
   width: 53%;
-  display: inline-block;
+  display: inline-table;
   margin: auto;
 }
 
