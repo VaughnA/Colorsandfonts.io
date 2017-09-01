@@ -1,0 +1,42 @@
+.box {
+  min-height: 30vh;
+  width: 60vh;
+}
+
+.box2 {
+   min-height: 90vh;
+  width: 60vh;
+  display: inline-block;
+}
+
+.box3 {
+  min-height: 90vh;
+  width: 50vh;
+  display: inline-table;
+}
+
+box4 {
+  min-height: 90vh;
+  width: 60vh;
+  display: inline-table;
+}
+
+.dark_blue {
+  background-color: #035959;
+}
+
+.light_blue {
+  background-color: #0B8D80;
+}
+
+.grey {
+  background-color: #212629;
+}
+
+.brown {
+  background-color: #210202;
+}
+
+.green {
+  background-color: #005921;
+}
