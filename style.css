@@ -3,21 +3,21 @@
   height: 30%;
   display: inline-block;
   float: left;
-  background-color: #FF530D;
+  background-color: yellow;
 }
 
 .box2 {
   height: 30%;
   width: 30%;
   display: inline-block;
-  background-color: #E82C0C;
+  background-color: grey;
 }
 
 .box3 {
   height: 30%;
   width: 20%;
   display: inline-block;
-  background-color: #FF0000;
+  background-color: brown;
   float: right;
 }
 
@@ -26,7 +26,7 @@
   width: 50%;
   display: inline-block;
   float: left;
-  background-color: #E80C7A;
+  background-color: green;
 }
 
 .box5 {
@@ -34,7 +34,7 @@
   width: 50%;
   display: inline-block;
   float: right;
-  background-color: #FF0DFF;
+  background-color: blue;
 }
 
 body {
