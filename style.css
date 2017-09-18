@@ -1,54 +1,52 @@
 .box1 {
-  min-height: 40vh;
-  width: 28%;
-  margin: auto;
-  display: inline-table;
+  width: 50%;
+  height: 30%;
+  display: inline-block;
+  float: left;
+  background-color: #FF530D;
 }
 
 .box2 {
-  min-height: 40vh;
-  width: 53%;
-  display: inline-table;
-  margin: auto;
+  height: 30%;
+  width: 30%;
+  display: inline-block;
+  background-color: #E82C0C;
 }
 
 .box3 {
-  min-height: 40vh;
-  width: 18%;
-  display: inline-table;
-  margin: auto;
+  height: 30%;
+  width: 20%;
+  display: inline-block;
+  background-color: #FF0000;
+  float: right;
 }
 
 .box4 {
-  min-height: 50vh;
-  width: 46%;
-  display: inline-table;
-  margin: auto;
+  height: 70%;
+  width: 50%;
+  display: inline-block;
+  float: left;
+  background-color: #E80C7A;
 }
 
 .box5 {
-  margin: auto;
-  min-height: 50vh; 
-  width: 53%;
-  display: inline-table;
+  height: 70%; 
+  width: 50%;
+  display: inline-block;
+  float: right;
+  background-color: #FF0DFF;
 }
 
-.light_blue {
-background-color: #FF530D
+body {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
 }
 
-.green {
-background-color: #E82C0C
-}
-
-.brown {
-background-color: #FF0000
-}
-
-.yellow {
-background-color: #E80C7A
-}
-
-.blue {
-background-color: #FF0DFF
+.Format {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-family: merriweather;
 }
